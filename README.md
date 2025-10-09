@@ -1,5 +1,5 @@
 # Rapport-de-tp 
 ## introduction 
-### matirial et methode 
-####resultat 
+### matériel et methode 
+####résultat 
 #####conclusion 
