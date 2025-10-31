@@ -1,5 +1,5 @@
 #Canned tuna fabrication: Canned tuna is tuna cooked and preserved in metal cans with oil, water or brine
-##Stages of manufacture
+##The first step: prepariton unit
 ##Fishing
 ##Chilling and Transport
 ##Cleaning and Cutting
